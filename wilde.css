@@ -29,3 +29,25 @@
 .lordgoring {
     color: lightpink;
 }
+
+table {
+    border: 5px solid black;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+th {
+    background-color: white;
+}
+
+tr:nth-child(odd) {
+    background-color: green;
+}
+.name:hover {
+    text-shadow: 3px 3px yellow;
+    border: 2px solid indigo;
+}
+
+
