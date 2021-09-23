@@ -39,7 +39,7 @@ table {
 }
 
 th {
-    background-color: white;
+    background-color: blue;
 }
 
 tr:nth-child(odd) {
